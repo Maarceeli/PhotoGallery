@@ -1,0 +1,31 @@
+:root {
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+
+}
+
+#images {
+
+}
+
+#section {
+    padding: 15px;
+    border-radius: 15px;
+}
+
+#sectionTitle {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+#sectionImage {
+    width: 25%;
+    padding: 5px;
+    border-radius: 15px;
+}
